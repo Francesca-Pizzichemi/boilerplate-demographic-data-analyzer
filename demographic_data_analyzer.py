@@ -100,7 +100,7 @@ def calculate_demographic_data(print_data=True):
             f"Highest percentage of rich people in country: "
             f"{highest_earning_country_percentage}%"
         )
-        print(
+        print( 
             "Top occupations in India:",
             top_IN_occupation
         )
